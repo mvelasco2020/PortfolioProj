@@ -1714,7 +1714,7 @@ h6 {
     ==============
 */
 .mh-about .mh-about-inner {
-  padding-left: 50px;
+  padding-left: 0px;
 }
 
 .mh-about .mh-about-inner h2 {
@@ -3248,12 +3248,12 @@ header {
 }
 
 .portfolio-nav ul li span {
-  padding: 15px 0;
+  padding: 7px 0;
   border-bottom: 2px solid transparent;
 }
 
 .portfolio-nav ul li.current span {
-  border-bottom: 2px solid #8218a5;
+  border-bottom: 2px solid #8218a5c5;
 }
 
 .mh-project-gallery .grid-item figure {
