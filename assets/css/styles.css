@@ -1661,6 +1661,10 @@ h6 {
   border-radius: 3px;
 }
 
+.f-size-larger {
+  font-size: 16px;
+}
+
 .mh-home .mh-header-info .social-icon li .fa:hover {
   -webkit-transition: 0.3s;
   transition: 0.3s;
